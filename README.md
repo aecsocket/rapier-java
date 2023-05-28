@@ -1,3 +1,5 @@
+# ARCHIVED: Use [rapier-ffi/rapier-java](https://github.com/aecsocket/rapier-ffi/tree/main/rapier-java) instead
+
 <div align="center">
 
 # rapier-java
